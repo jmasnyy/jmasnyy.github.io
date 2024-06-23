@@ -1,7 +1,7 @@
 # Dream Pop (Music Genre)
 ![Beach House performing live](https://upload.wikimedia.org/wikipedia/commons/7/72/Beach_House_at_House_of_Blues_San_Diego_on_July_1_2012.jpg)
 
-Dream pop is a genre of music which aims to blend several genres like alt-rock, psychadelic rock, and others to create something new. It is known for its use of reverb, chorus, and many other effects to achieve its iconic dream-like sound. 
+**Dream pop** is a genre of music which aims to blend several genres like alt-rock, psychadelic rock, and others to create something new. It is known for its use of reverb, chorus, and many other effects to achieve its iconic dream-like sound. 
 
 
 ## Early History
